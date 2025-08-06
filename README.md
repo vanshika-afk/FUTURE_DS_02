@@ -41,7 +41,7 @@ This project presents a 2-page interactive Power BI dashboard developed during m
 <li>ad_campaign_data- CSV File Dataset</li>  
 </ul>
 <hr>
-<h2>Linkedin Post: <a href="">Social Media Ad Campaign</a></h2>
+<h2>Linkedin Post: <a href="https://www.linkedin.com/posts/vanshika-dabla-1709a8273_powerbi-futureinterns-internship-activity-7358801333614755840-Bngy">Social Media Ad Campaign</a></h2>
 <hr>
 <h2>🤝 Special Thanks</h2>
 <h3>Grateful to Future Interns for the incredible opportunity to work on this insightful, hands-on project. Your guidance and mentorship throughout the internship have been invaluable in shaping my learning experience.</h3>
