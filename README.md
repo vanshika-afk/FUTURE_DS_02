@@ -29,3 +29,10 @@ This project presents a 2-page interactive Power BI dashboard developed during m
 <li>Clicks Strongly Drive CTR</li>
 </ul>
 <hr>
+<h2>Dashboard</h2>
+<h3>page 1</h3>
+<img width="1327" height="747" alt="image" src="https://github.com/user-attachments/assets/0debffc6-d0dc-459b-a782-a45e3c4817ba" />
+<h3>page 2</h3>
+<img width="1330" height="742" alt="image" src="https://github.com/user-attachments/assets/f99a5776-cfb0-42e4-8016-83e388b7f8bc" />
+<hr>
+<h2>File included</h2>
